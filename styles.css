@@ -1,0 +1,87 @@
+body{
+  font-family: monospace;
+}
+.Picture{
+  height: auto;
+  width: 250px;
+  border-radius: 50%;
+
+}
+#About{
+  text-align: center;
+  background-color: lightgrey;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+.Navigation{
+overflow: hidden;
+  min-height: 50px;
+  margin-bottom: 0px;
+  border: 1px solid;
+  background-color: black;
+
+}
+.Navigation a{
+  float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+
+
+#Work h1 {
+text-align: center;
+font-weight: bold;
+}
+
+#Work h3{
+  padding: 20px;
+  font-weight: bold;
+}
+
+#Work a{
+  padding: 20px;
+  color: black;
+}
+
+
+#Contact{
+  background-color: lightgrey;
+  padding: 50px;
+  text-align: center;
+}
+
+#Contact h2{
+  text-align: center;
+  text-decoration: underline;
+}
+
+.TouchBase{
+  text-decoration: underline;
+  font-weight: bold;
+  color: black;
+}
+
+footer{
+  overflow: hidden;
+    min-height: 50px;
+    margin-bottom: 0px;
+    border: 1px solid;
+    background-color: black;
+}
+
+footer a{
+  float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+footer a:hover{
+  color: white;
+}
